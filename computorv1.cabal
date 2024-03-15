@@ -54,7 +54,7 @@ extra-doc-files:    CHANGELOG.md
 common warnings
     ghc-options: -Wall
 
-executable computorv1
+executable computor
     -- Import common warning flags.
     import:           warnings
 
